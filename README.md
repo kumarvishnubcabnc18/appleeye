@@ -1,1 +1,5 @@
-# appleeye
+- 👋 Hi, I’m @kumarvishnubcabnc18
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Unity
+- 💞️ I’m looking to collaborate on Unity
+- 📫 How to reach me 
